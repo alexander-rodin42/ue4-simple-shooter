@@ -7,11 +7,13 @@
 #include "SSGameModeBase.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class SIMPLESHOOTER_API ASSGameModeBase : public AGameModeBase
 {
-	GENERATED_BODY()
-	
+    GENERATED_BODY()
+
+public:
+    ASSGameModeBase();
 };
