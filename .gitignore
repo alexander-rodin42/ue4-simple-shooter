@@ -157,6 +157,7 @@ bld/
 .vs/
 
 #Unreal Engine 
+Build/
 Binaries
 DerivedDataCache
 Intermediate
